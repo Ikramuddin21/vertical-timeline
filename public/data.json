@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "timelineHeading": "phase 1",
+        "timelineQuestion": "q1",
+        "timelineItem": [
+            "product launch", "1st drop 7,777 nftlotty nft", "development of the nftlotty web3 global platform", "deFi staking platform development"
+        ]
+    },
+    {
+        "id": 2,
+        "timelineHeading": "phase 2",
+        "timelineQuestion": "q2",
+        "boxShadow": true,
+        "timelineItem": [
+            "product launch", "1st drop 7,777 nftlotty nft", "development of the nftlotty web3 global platform", "deFi staking platform development"
+        ]
+    },
+    {
+        "id": 3,
+        "timelineHeading": "phase 3",
+        "timelineQuestion": "q3",
+        "timelineItem": [
+            "product launch", "1st drop 7,777 nftlotty nft", "development of the nftlotty web3 global platform", "deFi staking platform development"
+        ]
+    },
+    {
+        "id": 4,
+        "timelineHeading": "phase 4",
+        "timelineQuestion": "q4",
+        "timelineItem": [
+            "product launch", "1st drop 7,777 nftlotty nft", "development of the nftlotty web3 global platform", "deFi staking platform development"
+        ]
+    }
+]
